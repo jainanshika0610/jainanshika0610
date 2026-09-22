@@ -67,4 +67,4 @@ A full-stack HR management application built using .NET 8 and Angular.
 LinkedIn: www.linkedin.com/in/anshika-jain-840554208
 Email: jainanshika0610@gmail.com
 
-⭐ Feel free to explore my repositories and projects.
+👉 [View EmployeeHub Project](https://github.com/jainanshika0610/EmployeeHub)
